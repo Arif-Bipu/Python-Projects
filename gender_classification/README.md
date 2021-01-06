@@ -1,6 +1,6 @@
 # Overview
 
-Followed tutorial challenge 'Learn Python for Data Science #1' by @Sirajology on Youtube. The code uses the scikit-learn machine learning library to train a decision tree on a small dataset body of metrics labeled male or female. It then guesses the gender given a set of body metrics.
+Followed tutorial challenge 'Learn Python for Data Science #1' by @Sirajology on Youtube. The code uses the scikit-learn machine learning library to train a decision tree on a small dataset body of metrics labeled male or female. It then guesses the gender given a set of body metrics with all the classifiers. 
 
 ## What I have added
 
