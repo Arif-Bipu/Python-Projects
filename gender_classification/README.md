@@ -16,4 +16,4 @@ I have personally added 4 other classifiers besides the original tree. I have ad
 
 Run script in cmd or terminal via
 
-'python demo.py'
+python demo.py
