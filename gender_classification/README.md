@@ -7,11 +7,13 @@ Followed tutorial challenge 'Learn Python for Data Science #1' by @Sirajology on
 I have personally added 4 other classifiers besides the original tree. I have added support vector machine, KNeighbors, Gaussian Process, and MLP classifier. These are all implemented with their probabilities shown as well. 
 
 ##Dependencies 
+
 -Scikit-learn (http://scikit-learn.org/stable/install.html)
 -numpy (pip install numpy)
 -scipy (pip install scipy)
 
 ##Usage
+
 Run script in cmd or terminal via
 
 'python demo.py'
