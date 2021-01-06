@@ -1,5 +1,5 @@
 # Overview
-This repository will be a culmination of all the projects completed in Python. These projects will involve machine learning, creating applications, and any other projects I find an interest in.
+This repository will be a culmination of all of my projects completed in Python. These projects will involve machine learning, creating applications, and any other projects I find an interest in.
 
 
 ## Projects Currently Completed
